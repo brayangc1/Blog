@@ -8,5 +8,16 @@ body{
     border: 1px solid black;
     width: 70%;
     margin: 0 auto;
+    padding: 0;
+} 
+
+#cabecera span{
+    color: white;
+    font-weight: normal;
+    padding: 0 0 0 1em;
+    font-size: 0.7em;
+}
+
+#post{
     padding: 1em;
 }
