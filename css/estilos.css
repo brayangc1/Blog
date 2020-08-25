@@ -1,6 +1,12 @@
 body{
-    color : deeppink;
-    text-align: center;
+    color : black;
+    text-align: left;
     font-family: Arial;
-    font-weight: bold;
+}
+
+#contenedor{
+    border: 1px solid black;
+    width: 70%;
+    margin: 0 auto;
+    padding: 1em;
 }
