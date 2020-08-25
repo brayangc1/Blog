@@ -5,9 +5,31 @@ body{
     margin-top: 2em;
 }
 
+#cabecera{
+    background-color: forestgreen;
+    box-shadow: 3px 6px 6px 0px rgba(0,0,0,0.75);
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 0.5em;
+}
+
 #contenedor{
     border: 1px solid black;
     width: 70%;
     margin: 0 auto;
+    padding: 0;
+} 
+
+#cabecera span{
+    color: white;
+    font-weight: normal;
+    padding: 0 0 0 1em;
+    font-size: 0.7em;
+}
+
+#post{
     padding: 1em;
 }
