@@ -33,3 +33,11 @@ body{
 #post{
     padding: 1em;
 }
+
+#footer{
+    background-color:cadetblue;
+    color:white;
+    padding:0.5em;
+    text-align: center;
+    text-decoration: underline;
+}
